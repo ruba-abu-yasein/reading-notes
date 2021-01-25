@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Growth mindset
+***Individuals who believe their talents can be developed (through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (those who believe their talents are innate gifts)***
 
-You can use the [editor on GitHub](https://github.com/ruba-abu-yasein/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Having a growth mindset is important because it can help you overcome the difficulties you might go through when learning something new or developing a new skill. Growth mindsets recognize the importance of persistence and determination. By changing the way you think, you can change the way of learning**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTybTGDjYEHARIwIFLN3I3M-ydi9FaowEv9Ow&usqp=CAU)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I can keep myself in a growth mindset through:
 
-```markdown
-Syntax highlighted code block
+1.Try different learning tactics.
 
-# Header 1
-## Header 2
-### Header 3
+2.Follow the research on brain plasticity.
 
-- Bulleted
-- List
+3.Replace the word “failing” with the word “learning.”
 
-1. Numbered
-2. List
+read moreat:[mindset works](https://www.mindsetworks.com/science/).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ruba-abu-yasein/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ruba abu yasein .23 years old.i studied Special education in University of Jordan i am here to learn something new and i am very excited for this ,Windows 10 /build 19042.746 ,I think this course will help me become a good programmer in the future 
+https://github.com/ruba-abu-yasein

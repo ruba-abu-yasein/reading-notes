@@ -23,3 +23,4 @@ https://github.com/ruba-abu-yasein
 | ----------- | ----------- |
 | read1      | [link](https://ruba-abu-yasein.github.io/reading-notes/read1 )    
 | read2      | [link](https://ruba-abu-yasein.github.io/reading-notes/read2)
+| read3      | [link](https://ruba-abu-yasein.github.io/reading-notes/read3)

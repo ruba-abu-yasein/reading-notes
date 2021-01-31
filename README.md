@@ -21,8 +21,9 @@ https://github.com/ruba-abu-yasein
 
 | read this      | link |
 | ----------- | ----------- |
-| read1      | [link](https://ruba-abu-yasein.github.io/reading-notes/read1)    
-| read2      | [link](https://ruba-abu-yasein.github.io/reading-notes/read2)
-| read3      | [link](https://ruba-abu-yasein.github.io/reading-notes/read3)
+| read1      | [read1](read1)    
+| read2      | [read2](read2)
+| read3      | [read3](read3)
 | read4      | [read4](read4)
 | read5      | [read5](read5)
+| read6      | [read6](read6)

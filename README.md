@@ -27,3 +27,4 @@ https://github.com/ruba-abu-yasein
 | read4      | [read4](read4)
 | read5      | [read5](read5)
 | read6      | [read6](read6)
+| read7      | [read7](read7)

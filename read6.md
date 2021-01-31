@@ -25,7 +25,7 @@
 **Declaring function that need information :**
 *Sometimes function need specific information to perform its task when you declare the function you give it parameters ,inside the function the parameter act like variable*
 
-*Calling a function that need information : like we told above sume  function that has parameters now when we call thet function ,specify the values it should use in the parentheses that follow its name (the value called argument:*
+*Calling a function that need information : like we told above some  function that has parameters now when we call thet function ,specify the values it should use in the parentheses that follow its name (the value called argument:*
 *arguments as values
 *arguments as variable
-***Sume functions return information to the code that called them***
+***Some functions return information to the code that called them***

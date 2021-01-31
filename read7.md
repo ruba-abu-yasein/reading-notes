@@ -6,7 +6,7 @@
 
 ## Chapter 11:
 
-**The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways , There are 147 predefined color names that are recognized by browser .**
+**The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways , There are 147 predefined color names that are recognized by browser**
 **The use of comments can help you to understand a CSS file**
 
 *background-color property sets the color of the background for that box

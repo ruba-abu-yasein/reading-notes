@@ -1,6 +1,6 @@
 # Chapter 10:
 
-***CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration, CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon , There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document ***
+***CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration, CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon , There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document***
 
 *When building a website there are several advantages to placing your CSS rules in a separate style sheet, CSS rules usually appear in a separate document, although they may appear within an HTML page*
 

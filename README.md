@@ -20,15 +20,23 @@ ruba abu yasein .23 years old.i studied Special education in University of Jorda
 https://github.com/ruba-abu-yasein
 
 # Code 102 Reading Notes
+
 | read this  | link          |
 |------------|---------------|
-| read1      | [read1](read1)|    
+| read1      | [read1](read1)| 
+|------------|---------------|
 | read2      | [read2](read2)|
+|------------|---------------|
 | read3      | [read3](read3)|
+|------------|---------------|
 | read4      | [read4](read4)|
+|------------|---------------|
 | read5      | [read5](read5)|
+|------------|---------------|
 | read6      | [read6](read6)|
+|------------|---------------|
 | read7      | [read7](read7)|
+|------------|---------------|
 
 
 # Code 201 Reading Notes

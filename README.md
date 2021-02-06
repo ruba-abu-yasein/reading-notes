@@ -19,6 +19,7 @@ read moreat:[mindset works](https://www.mindsetworks.com/science/).
 ruba abu yasein .23 years old.i studied Special education in University of Jordan i am here to learn something new and i am very excited for this ,Windows 10 /build 19042.746 ,I think this course will help me become a good programmer in the future 
 https://github.com/ruba-abu-yasein
 
+# Code 102 Reading Notes
 | read this      | link |
 | ----------- | ----------- |
 | read1      | [read1](read1)    
@@ -28,3 +29,22 @@ https://github.com/ruba-abu-yasein
 | read5      | [read5](read5)
 | read6      | [read6](read6)
 | read7      | [read7](read7)
+
+# Code 201 Reading Notes
+| read this      | link |
+| ----------- | ----------- |
+|class-01| [class-01](class-01)    
+|        | []()
+|        | []()
+|        | []()
+|        | []()
+|        | []()
+|        | []()
+|        | []()    
+|        | []()
+|        | []()
+|        | []()
+|        | []()
+|        | []()
+|        | []()
+|        | []()

@@ -15,6 +15,7 @@
 
 - STEP 1: ACCESS THE ELEMENTS
 - STEP 2: WORK W ITH THOSE ELEMENTS Here
+
   **DOM queries may return one element, or they may return a Nodelist, which is a collection of nodes.**
   **Get element By i d ()**
   **allows you to select a single element node by specifying the value of its id attribute**
